@@ -1,6 +1,12 @@
 header, footer{
-    text-align: center}
+    text-align: center;
+        font-family: fantasy
+    
+}
 .navtable
 {
 width:15%
 }
+
+#font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
