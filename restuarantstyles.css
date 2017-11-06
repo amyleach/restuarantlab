@@ -3,6 +3,16 @@ header, footer{
         font-family: fantasy
     
 }
+a:visited{
+    color:paleturquoise
+}
+a:hover{
+    font-weight:bold
+}
+a:active{ 
+    text-decoration: none
+}
+
 .navtable
 {
 width:15%
@@ -10,3 +20,4 @@ width:15%
 
 #font{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
